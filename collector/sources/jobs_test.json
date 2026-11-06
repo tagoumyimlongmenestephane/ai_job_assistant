@@ -1,0 +1,1988 @@
+{
+    "ergebnisliste": [
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Qualitätsbeauftragter (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-05"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Grünberger Straße 27",
+                        "plz": "35394",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.583942,
+                    "laenge": 8.685027
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T09:42:12.235",
+            "hauptberuf": "Fachkraft - Qualitätssicherung/-management",
+            "firma": "Alloheim Senioren-Residenzen SE",
+            "arbeitgeberKundennummerHash": "AYGSST0sP_ivIdoTDq2RXPU4jwc13EXmAekXDZ-B6RM=",
+            "referenznummer": "13520-0068536982-S",
+            "entfernung": 0,
+            "alleBerufe": [
+                "Fachkraft - Qualitätssicherung/-management"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Objektleiter | Kundenbetreuer (m/w/d) Gebäudereinigung | Raum Gießen #430860",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-12-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "430860",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T14:36:12.658",
+            "hauptberuf": "Gebäudereiniger/in",
+            "firma": "WISAG Job & Karriere GmbH & Co. KG",
+            "arbeitgeberKundennummerHash": "UdF-Z6KePpsDlzq0Bb3kRzTlB4AxapoxEVAwux12z-A=",
+            "referenznummer": "13465-00021a69b28001-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Gebäudereiniger/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "AUSBILDUNG",
+            "ausbildungsart": "AUSBILDUNG",
+            "stellenangebotsTitel": "Bankkaufmann (m/w/d) - vertriebsorientiert",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2027-09-06"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-03"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T13:13:36.900",
+            "hauptberuf": "Bankkaufmann/-frau",
+            "firma": "Wüstenrot Bausparkasse AG",
+            "arbeitgeberKundennummerHash": "roxQzvv3ibVqm_REHpqS0GbvpccRCtWGHB5mpP4BBXM=",
+            "referenznummer": "10000-1208520220-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Bankkaufmann/-frau"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "🚨 Bereit für den Neuanfang? Dann leg JETZT los – als Sicherungsposten !",
+            "quereinstiegGeeignet": true,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.58729498300005,
+                    "laenge": 8.677398478000043
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T10:43:42.991",
+            "hauptberuf": "Sicherungsposten",
+            "firma": "BDL Bahndienstleistungen Ludolph GmbH",
+            "arbeitgeberKundennummerHash": "xdvBEU_C_WRBkjoBEuwH-7ixOWUI3zmrY9u9IfFGN3M=",
+            "referenznummer": "10001-1003960648-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Sicherungsposten"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Reinigungskraft (m/w/d) / Zimmerfee",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-05"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Hein-Heckroth-Straße 20",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.581161,
+                    "laenge": 8.6832675
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T10:22:43.509",
+            "hauptberuf": "Helfer/in - Reinigung",
+            "firma": "Best Western Plus Hotel Steinsgarten  ",
+            "arbeitgeberKundennummerHash": "cw8Q6TOwJ7fsp3fXXAEC0LWt8zh3wdc7mDjqiYQeXj0=",
+            "referenznummer": "16626-0068539262-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Helfer/in - Reinigung"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Quereinsteiger zum Finanzbegleiter (m/w/d)",
+            "quereinstiegGeeignet": true,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2027-03-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Goethestraße",
+                        "hausnummer": "7",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.58351,
+                    "laenge": 8.6735115
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T13:37:15.568",
+            "hauptberuf": "Finanzassistent/in",
+            "firma": "Volksbank Mittelhessen eG",
+            "arbeitgeberKundennummerHash": "4ICVIkrYfEkMAih_wIb66SOKTefHnF-183lpGS25YdY=",
+            "referenznummer": "10001-1003960497-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Finanzassistent/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Hausmeister (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": false,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": true,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Goethestraße 10",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.583276,
+                    "laenge": 8.673552
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T12:05:32.860",
+            "externeURL": "https://www.karriere-mittelhessen.de/stellenangebot/hausmeister-671505",
+            "hauptberuf": "Hausmeister/in",
+            "firma": "Kreishandwerkerschaft Gießen",
+            "referenznummer": "13651-JOB-671505-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Hausmeister/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Stellvertretende Filialleitung / Storemanager (m/w/d) – Gießen",
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-03"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-03"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-03",
+            "aenderungsdatum": "2026-11-03T20:57:54.628",
+            "hauptberuf": "Filialleiter/in, Verkaufsstellenleiter/in",
+            "firma": "Melanie Woltersdorf Personalberatung",
+            "arbeitgeberKundennummerHash": "YjX6DoZirNSoYRhWluQbw5eGBRuz77KDmsD7lJEQyZs=",
+            "referenznummer": "10001-1003958325-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Filialleiter/in, Verkaufsstellenleiter/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Elektriker Teamleiter in der Prüftechnik Willkommensprämie 4.000€ (w/m/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-03"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.587294899,
+                    "laenge": 8.677398463
+                }
+            ],
+            "chiffrenummer": "#20253508",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-03"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-03",
+            "aenderungsdatum": "2026-11-03T10:41:33.879",
+            "hauptberuf": "Elektroniker/in - Geräte und Systeme",
+            "firma": "OMS Prüfservice GmbH",
+            "arbeitgeberKundennummerHash": "ubdOvmh-NGaf6SdQjB2HUAGxU5JRKpPvCHk9O6C9_98=",
+            "referenznummer": "16444-620253508-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Elektroniker/in - Geräte und Systeme"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Modeberaterin Teilzeit (m/w/d)",
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Seltersweg",
+                        "hausnummer": "64",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.582592,
+                    "laenge": 8.6709015
+                }
+            ],
+            "chiffrenummer": "15038",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T15:21:05.282",
+            "hauptberuf": "Verkaufsberater/in",
+            "firma": "BONITA GmbH",
+            "arbeitgeberKundennummerHash": "NF5iAQYBtjDZ4ggBcmdtyi7fyJZIps0O3zAKoR-pqFs=",
+            "referenznummer": "10001-1003964175-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Verkaufsberater/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "AUSBILDUNG",
+            "ausbildungsart": "AUSBILDUNG",
+            "stellenangebotsTitel": "Umwelttechnologe/Umwelttechnologin* für Rohrleitungsnetze und ...",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2027-08-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Berliner Platz 1",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.583564,
+                    "laenge": 8.6793615
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-03T10:28:34.326",
+            "hauptberuf": "Umwelttechnologe/-technologin - Rohrleitungsnetze und Industrieanlagen",
+            "firma": "Magistrat der Stadt Gießen",
+            "arbeitgeberKundennummerHash": "1LEPXe9WxNyQKU77CB3HcH4kbmV1f7JdRc-o5mj5dTc=",
+            "referenznummer": "18941-ohljfe7uzg-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Umwelttechnologe/-technologin - Rohrleitungsnetze und Industrieanlagen"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Assistenzarzt Psychiatrie und Psychotherapie (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-03"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Berliner Pl. 1",
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.583564,
+                    "laenge": 8.6793615
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T17:36:06.023",
+            "hauptberuf": "Assistenzarzt/-ärztin",
+            "firma": "tw.con. GmbH",
+            "arbeitgeberKundennummerHash": "qyuoT0LXaCA2KcJFonJC4knEmR9Wwbx2CywUttcLWWg=",
+            "referenznummer": "14549-k31945.107420-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Assistenzarzt/-ärztin"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Reinigungskraft (w/m/d)",
+            "quereinstiegGeeignet": true,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": false,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.575585,
+                    "laenge": 8.6804787
+                }
+            ],
+            "chiffrenummer": "159-11 2026",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T13:10:57.407",
+            "hauptberuf": "Gebäudereiniger/in",
+            "firma": "Lebenshilfe Gießen e.V.",
+            "arbeitgeberKundennummerHash": "DZlOjqOMB2uRXrRhzEFwZSGhlozrowZufhX_zB1aDxs=",
+            "referenznummer": "10001-1003962398-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Gebäudereiniger/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Pflegefachkraft m/w/d - verdiene monatlich 5.000,00€ mit uns",
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.575585,
+                    "laenge": 8.6804787
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T12:35:57.768",
+            "hauptberuf": "Pflegefachmann/-frau (Gesundheits- und Krankenpflege)",
+            "firma": "Happy Personalservice GmbH",
+            "arbeitgeberKundennummerHash": "Qb0P1WtutGiIJLGPCx2oxWpPNnfjjriRPBOcMVv5wnY=",
+            "referenznummer": "10001-1003962015-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Pflegefachmann/-frau (Gesundheits- und Krankenpflege)"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Hausmeister (m/w/d) Trinkwasserspülungen in Gießen",
+            "quereinstiegGeeignet": true,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.575585,
+                    "laenge": 8.6804787
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T08:38:58.186",
+            "hauptberuf": "Hausmeister/in",
+            "firma": "SBS Unternehmensberatung GmbH",
+            "arbeitgeberKundennummerHash": "JnsWipmif7pa6iUUArpcfQ_5ek_8CWnLxLisZU6GX4Q=",
+            "referenznummer": "10001-1003958971-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Hausmeister/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Pflegefachkräfte (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-12-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.575585,
+                    "laenge": 8.6804787
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T07:45:32.045",
+            "externeURL": "https://helixjobs.com/_/jobad?prj=1569p123900&source=ba",
+            "hauptberuf": "Pflegefachmann/-frau (Altenpflege)",
+            "firma": "Caritasverband Gießen e.V.",
+            "referenznummer": "18024-100PJ000WEO0w-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Pflegefachmann/-frau (Altenpflege)"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Pflegehilfskräfte (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": false,
+            "eintrittszeitraum": {
+                "von": "2026-12-04"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "BEFRISTET",
+            "befristungInMonaten": 12,
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.575585,
+                    "laenge": 8.6804787
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-04"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-04",
+            "aenderungsdatum": "2026-11-04T07:45:31.937",
+            "externeURL": "https://helixjobs.com/_/jobad?prj=1569p123896&source=ba",
+            "hauptberuf": "Altenpflegehelfer/in",
+            "firma": "Caritasverband Gießen e.V.",
+            "referenznummer": "18024-100PJ000WEK0x-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Altenpflegehelfer/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Bilanzbuchhalter (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-04"
+            },
+            "verguetungsangabe": "JAHRESGEHALT",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 70000.0,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-04T18:32:06.202",
+            "externeURL": "https://bewerbung.jobs/ccbc0df1-5b17-4a4a-8c63-687a1d58f44c?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Bilanzbuchhalter/in/Bachelor Professional in Bilanzbuchhaltung",
+            "firma": "HeRa Consulting GmbH",
+            "referenznummer": "14751-403A249-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Bilanzbuchhalter/in/Bachelor Professional in Bilanzbuchhaltung"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Examinierte Pflegefachkraft (m/w/d) 27–30 €/Std.",
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "GEHALTSSPANNE",
+            "gehaltsspanneVon": 27,
+            "gehaltsspanneBis": 30,
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.587294899,
+                    "laenge": 8.677398463
+                }
+            ],
+            "chiffrenummer": "282565A049541",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T14:11:44.828",
+            "hauptberuf": "Altenpfleger/in",
+            "alternativBeruf1": "Gesundheits- und Krankenpflegehelfer/in",
+            "alternativBeruf2": "Fachaltenpfleger/in - Onkologie",
+            "firma": "Wutow Professional GmbH",
+            "arbeitgeberKundennummerHash": "M2XFKCOHIz3HucnvCUPRQteyVdDFi6YlgzX-Od-C288=",
+            "referenznummer": "10001-1003948766-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Altenpfleger/in",
+                "Gesundheits- und Krankenpflegehelfer/in",
+                "Fachaltenpfleger/in - Onkologie"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Kommissionierer ab 16, 12 € Stundenlohn (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 16.12,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:08.835",
+            "externeURL": "https://bewerbung.jobs/1de32713-4745-46d1-bb7d-263a7d4d69d7?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Lager- und Transportarbeiter/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A145267-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Lager- und Transportarbeiter/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Personalberater/Personalberaterin (m/w/d)",
+            "quereinstiegGeeignet": true,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "JAHRESGEHALT",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 36000.0,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:08.754",
+            "externeURL": "https://bewerbung.jobs/de9b49ee-a075-4085-b37f-3882177862b1?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Personalberater/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A145518-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Personalberater/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Kommissionierer (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "GEHALTSSPANNE",
+            "gehaltsspanneVon": 16.08,
+            "gehaltsspanneBis": 16.7,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:08.494",
+            "externeURL": "https://bewerbung.jobs/cb932721-1afd-482d-80a6-99e49f875b46?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Lager- und Transportarbeiter/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A145261-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Lager- und Transportarbeiter/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Industriemechaniker (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 18.09,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:08.121",
+            "externeURL": "https://bewerbung.jobs/8d6070a3-bc84-4306-b93b-a913950104ec?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Industriemechaniker/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A142365-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Industriemechaniker/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Gabelstaplerfahrer (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 16.08,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:07.856",
+            "externeURL": "https://bewerbung.jobs/8b6d9a93-d6f8-41a2-a8d7-64bd0304e956?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Gabelstaplerfahrer/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A139701-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Gabelstaplerfahrer/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Lager- und Transportarbeiter (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "STUNDENLOHN",
+            "artDerVerguetung": "FESTGEHALT",
+            "festgehalt": 15.33,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:49:07.591",
+            "externeURL": "https://bewerbung.jobs/ea5f5601-fc91-4e16-b833-ab46959af4d6?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Lager- und Transportarbeiter/in",
+            "firma": "Tempton Personaldienstleistungen GmbH NL Gießen",
+            "referenznummer": "14751-373A139700-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Lager- und Transportarbeiter/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Personaldisponent/ Vertriebsdisponent / Personalberater (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "JAHRESGEHALT",
+            "artDerVerguetung": "GEHALTSSPANNE",
+            "gehaltsspanneVon": 40000.0,
+            "gehaltsspanneBis": 60000.0,
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "homeofficemoeglich": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T13:48:59.738",
+            "externeURL": "https://bewerbung.jobs/bf215a87-cb43-4d31-bd5f-c0ad2f070307?source=00119ac8-3a27-4400-916b-5fea8eefc2a6",
+            "hauptberuf": "Personaldisponent/in",
+            "firma": "Tempton Personaldienstleistungen GmbH Personalabteilung Mitte",
+            "referenznummer": "14751-373A145167-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Personaldisponent/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Erzieher / Heilerziehungspfleger (w/m/d)",
+            "arbeitszeitSchichtNachtWochenende": true,
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": false,
+            "eintrittszeitraum": {
+                "von": "2027-01-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.5872949,
+                    "laenge": 8.6773985
+                }
+            ],
+            "chiffrenummer": "154-10 2026",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T12:20:04.718",
+            "hauptberuf": "Erzieher/in",
+            "alternativBeruf1": "Heilerziehungspfleger/in",
+            "firma": "Lebenshilfe Gießen e.V.",
+            "arbeitgeberKundennummerHash": "DZlOjqOMB2uRXrRhzEFwZSGhlozrowZufhX_zB1aDxs=",
+            "referenznummer": "10001-1003945588-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Erzieher/in",
+                "Heilerziehungspfleger/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Schutz- und Sicherheitskraft (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitSchichtNachtWochenende": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.587294899,
+                    "laenge": 8.677398463
+                }
+            ],
+            "chiffrenummer": "SA0150427",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T09:40:05.071",
+            "hauptberuf": "Geprüfte Schutz- und Sicherheitskraft (IHK)",
+            "alternativBeruf1": "Fachkraft - Schutz und Sicherheit",
+            "firma": "Piening GmbH (Gießen)",
+            "arbeitgeberKundennummerHash": "4rX1ZpKP1jjUTGZIrXQy6ylehbuuln607_8M0BmYsy0=",
+            "referenznummer": "12826-SA0150427_JB5287234-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Geprüfte Schutz- und Sicherheitskraft (IHK)",
+                "Fachkraft - Schutz und Sicherheit"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Mitarbeiter Werkschutz (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.587294899,
+                    "laenge": 8.677398463
+                }
+            ],
+            "chiffrenummer": "SA0150426",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T09:40:04.996",
+            "hauptberuf": "Geprüfte Schutz- und Sicherheitskraft (IHK)",
+            "alternativBeruf1": "Werkschutzleiter/in",
+            "firma": "Piening GmbH (Gießen)",
+            "arbeitgeberKundennummerHash": "4rX1ZpKP1jjUTGZIrXQy6ylehbuuln607_8M0BmYsy0=",
+            "referenznummer": "12826-SA0150426_JB5287233-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Geprüfte Schutz- und Sicherheitskraft (IHK)",
+                "Werkschutzleiter/in"
+            ]
+        },
+        {
+            "stellenangebotsart": "ARBEIT",
+            "stellenangebotsTitel": "Elektroniker für Geräte- und Systeme (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-11-02"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "35390",
+                        "ort": "Gießen, Lahn",
+                        "region": "HESSEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 50.587294899,
+                    "laenge": 8.677398463
+                }
+            ],
+            "chiffrenummer": "SA0150418",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-11-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-11-02",
+            "aenderungsdatum": "2026-11-02T09:40:04.421",
+            "hauptberuf": "Elektroniker/in - Geräte und Systeme",
+            "alternativBeruf1": "Industrieelektriker/in - Geräte und Systeme",
+            "firma": "Piening GmbH (Gießen)",
+            "arbeitgeberKundennummerHash": "4rX1ZpKP1jjUTGZIrXQy6ylehbuuln607_8M0BmYsy0=",
+            "referenznummer": "12826-SA0150418_JB5287226-S",
+            "entfernung": 1,
+            "alleBerufe": [
+                "Elektroniker/in - Geräte und Systeme",
+                "Industrieelektriker/in - Geräte und Systeme"
+            ]
+        }
+    ],
+    "maxErgebnisse": 769,
+    "page": 1,
+    "size": 30,
+    "woOutput": {
+        "bereinigterOrt": "Gießen, Lahn",
+        "suchmodus": "UMKREISSUCHE",
+        "koordinaten": [
+            {
+                "lat": 50.58634325,
+                "lon": 8.6851616
+            }
+        ]
+    },
+    "facetten": {
+        "befristung": {
+            "counts": {
+                "1": 43,
+                "2": 362,
+                "3": 364
+            },
+            "maxCount": 769
+        },
+        "verguetung": {
+            "counts": {
+                "jahr": 77,
+                "stunde": 133
+            },
+            "maxCount": 769
+        },
+        "externestellenboersen": {
+            "counts": {
+                "false": 528,
+                "true": 241
+            },
+            "maxCount": 769
+        },
+        "behinderung": {
+            "counts": {
+                "false": 560,
+                "true": 1
+            },
+            "maxCount": 769
+        },
+        "berufsfeld": {
+            "counts": {
+                "Altenpflege": 29,
+                "Arzt- und Praxishilfe": 24,
+                "Aus- und Trockenbau, Isolierung, Zimmerei, Glaserei": 2,
+                "Bau- und Transportgeräteführung": 32,
+                "Bauplanung und -überwachung, Architektur": 2,
+                "Biologie": 6,
+                "Bodenverlegung": 2,
+                "Büro und Sekretariat": 19,
+                "Chemie": 3,
+                "Drucktechnik, Buchbinderei": 1,
+                "Einkauf und Vertrieb": 11,
+                "Elektrotechnik": 23,
+                "Energietechnik": 28,
+                "Ernährungs- und Gesundheitsberatung": 1,
+                "Erziehung, Sozialarbeit, Heilerziehungspflege": 13,
+                "Fahr- und Sportunterricht an außerschulischen Bildungseinrichtungen": 6,
+                "Fahrzeug-, Luft-, Raumfahrt- und Schiffbautechnik": 8,
+                "Fahrzeugführung im Straßenverkehr": 7,
+                "Feinwerk- und Werkzeugtechnik": 3,
+                "Forstwirtschaft, Jagdwirtschaft, Landschaftspflege": 1,
+                "Gartenbau": 3,
+                "Gastronomie": 21,
+                "Gebäudetechnik": 8,
+                "Gesellschaftswissenschaften": 4,
+                "Handel": 4,
+                "Hauswirtschaft und Verbraucherberatung": 4,
+                "Hochbau": 3,
+                "Holzbe- und -verarbeitung": 1,
+                "Hotellerie": 9,
+                "Human- und Zahnmedizin": 30,
+                "IT-Netzwerktechnik, -Administration, -Organisation": 2,
+                "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb": 3,
+                "Immobilienwirtschaft und Facility-Management": 1,
+                "Informatik": 8,
+                "Kaufleute - Verkehr und Logistik": 6,
+                "Klempnerei, Sanitär-, Heizungs- und Klimatechnik": 9,
+                "Krankenpflege, Rettungsdienst und Geburtshilfe": 37,
+                "Kunststoff- und Kautschukherstellung": 3,
+                "Körperpflege": 2,
+                "Lagerwirtschaft, Post und Zustellung, Güterumschlag": 59,
+                "Landwirtschaft": 4,
+                "Lehrtätigkeit berufsbildender Fächer und betriebliche Ausbildung": 1,
+                "Maler, Stuckateure, Bautenschutz": 2,
+                "Maschinenbau- und Betriebstechnik": 26,
+                "Mechatronik und Automatisierungstechnik": 8,
+                "Medien-, Dokumentations- und Informationsdienste": 1,
+                "Medizin-, Orthopädie- und Rehatechnik": 5,
+                "Medizinisches Laboratorium": 5,
+                "Metallbau und Schweißtechnik": 22,
+                "Metallbearbeitung": 23,
+                "Metallerzeugung": 1,
+                "Metalloberflächenbehandlung": 2,
+                "Naturstein- und Mineralaufbereitung, Baustoffherstellung": 1,
+                "Nichtärztliche Therapie und Heilkunde": 8,
+                "Objekt-, Personen-, Brandschutz, Arbeitssicherheit": 7,
+                "Papier- und Verpackungstechnik": 1,
+                "Personalwesen und -dienstleistung": 15,
+                "Pharmazie": 1,
+                "Physik": 2,
+                "Psychologie, nichtärztliche Psychotherapie": 1,
+                "Rechnungswesen, Controlling und Revision": 8,
+                "Rechtsberatung, -sprechung und -ordnung": 2,
+                "Redaktion und Journalismus": 1,
+                "Reinigung": 17,
+                "Softwareentwicklung und Programmierung": 4,
+                "Speisenzubereitung": 22,
+                "Steuerberatung": 8,
+                "Technische Produktionsplanung und -steuerung": 12,
+                "Technisches Zeichnen, Konstruktion und Modellbau": 6,
+                "Textilverarbeitung": 1,
+                "Theologie und Gemeindearbeit": 1,
+                "Tiefbau": 1,
+                "Tiermedizin und Tierheilkunde": 1,
+                "Tierwirtschaft": 1,
+                "Tourismus und Sport": 3,
+                "Unternehmensorganisation und -strategie": 7,
+                "Ver- und Entsorgung": 9,
+                "Veranstaltungs-, Kamera-, Tontechnik": 3,
+                "Veranstaltungsservice und -management": 1,
+                "Verkauf (ohne Produktspezialisierung)": 56,
+                "Verkauf Bekleidung, Elektro, KFZ, Hartwaren": 2,
+                "Verkauf von Lebensmitteln": 1,
+                "Verkauf von drogerie- und apothekenüblichen Waren": 1,
+                "Versicherungs- und Finanzdienstleistungen": 13,
+                "Verwaltung": 6,
+                "Werbung und Marketing": 3,
+                "Überwachung und Steuerung des Verkehrsbetriebs": 1,
+                "Überwachung, Wartung Verkehrsinfrastruktur": 3
+            },
+            "maxCount": 769
+        },
+        "pav": {
+            "counts": {
+                "false": 710,
+                "true": 59
+            },
+            "maxCount": 769
+        },
+        "arbeitsort": {
+            "counts": {
+                "Solms, Lahn": 7,
+                "Hohenahr": 7,
+                "Butzbach": 56,
+                "Ebsdorfergrund": 3,
+                "Lich, Hessen": 57,
+                "Pohlheim": 31,
+                "Heuchelheim an der Lahn": 10,
+                "Hüttenberg, Hessen": 5,
+                "Schöffengrund": 3,
+                "Hungen": 5,
+                "Bad Nauheim": 33,
+                "Grünberg, Hessen": 11,
+                "Wetzlar": 142,
+                "Braunfels": 10,
+                "Ehringshausen, Dill": 3,
+                "Staufenberg, Hessen": 5,
+                "Aßlar": 20,
+                "Gladenbach": 4,
+                "Fernwald": 4,
+                "Linden, Hessen": 5,
+                "Wettenberg, Hessen": 6,
+                "Langgöns": 8,
+                "Ober-Mörlen": 4,
+                "Buseck": 14,
+                "Fronhausen, Lahn": 4,
+                "Lollar": 17,
+                "Wölfersheim": 12,
+                "Reiskirchen, Wieseck": 8,
+                "Mittenaar": 4,
+                "Waldsolms": 3,
+                "Lahnau": 9,
+                "Laubach, Hessen": 7,
+                "Lohra": 4,
+                "Bad Endbach": 3,
+                "Gießen, Lahn": 200,
+                "Marburg": 81,
+                "Biebertal, Hessen": 3,
+                "Münzenberg": 5
+            },
+            "maxCount": 769
+        },
+        "ausbildungsart": {
+            "counts": {
+                "0": 86,
+                "1": 1,
+                "2": 1
+            },
+            "maxCount": 769
+        },
+        "veroeffentlichtseit": {
+            "counts": {
+                "0": 113,
+                "1": 225,
+                "14": 1211,
+                "28": 2078,
+                "7": 769,
+                "alle": 7626
+            },
+            "maxCount": 7626
+        },
+        "schulbildung": {
+            "counts": {
+                "0": 713,
+                "1": 713,
+                "11": 713,
+                "12": 746,
+                "2": 741,
+                "3": 766,
+                "4": 768,
+                "5": 768,
+                "6": 769
+            },
+            "maxCount": 769
+        },
+        "arbeitsort_plz": {
+            "counts": {
+                "01067": 1,
+                "01968": 1,
+                "02828": 3,
+                "04109": 4,
+                "06120": 3,
+                "06749": 1,
+                "07747": 3,
+                "08527": 1,
+                "09648": 2,
+                "10719": 2,
+                "13089": 1,
+                "13405": 1,
+                "15230": 3,
+                "16515": 2,
+                "16547": 1,
+                "17033": 3,
+                "17491": 3,
+                "19059": 2,
+                "20537": 1,
+                "23556": 1,
+                "23970": 1,
+                "24107": 1,
+                "24111": 3,
+                "26122": 1,
+                "26133": 1,
+                "26384": 1,
+                "27432": 1,
+                "27572": 1,
+                "27721": 1,
+                "29451": 1,
+                "30159": 1,
+                "30165": 2,
+                "30629": 1,
+                "31275": 1,
+                "31311": 2,
+                "31515": 1,
+                "31535": 1,
+                "31552": 1,
+                "32105": 1,
+                "33106": 1,
+                "33334": 1,
+                "33609": 1,
+                "34117": 3,
+                "34123": 2,
+                "34134": 3,
+                "34613": 1,
+                "34632": 1,
+                "34633": 1,
+                "34637": 1,
+                "34639": 1,
+                "35037": 54,
+                "35039": 4,
+                "35043": 13,
+                "35066": 1,
+                "35075": 4,
+                "35080": 3,
+                "35085": 3,
+                "35096": 2,
+                "35099": 1,
+                "35102": 4,
+                "35112": 4,
+                "35216": 2,
+                "35260": 1,
+                "35287": 3,
+                "35288": 1,
+                "35305": 11,
+                "35321": 7,
+                "35325": 10,
+                "35390": 94,
+                "35392": 22,
+                "35394": 39,
+                "35396": 7,
+                "35398": 18,
+                "35410": 5,
+                "35415": 31,
+                "35418": 14,
+                "35423": 57,
+                "35428": 8,
+                "35435": 6,
+                "35440": 5,
+                "35444": 3,
+                "35447": 8,
+                "35452": 10,
+                "35457": 17,
+                "35460": 5,
+                "35463": 4,
+                "35466": 1,
+                "35510": 55,
+                "35516": 5,
+                "35519": 2,
+                "35576": 47,
+                "35578": 73,
+                "35579": 1,
+                "35580": 1,
+                "35581": 2,
+                "35582": 9,
+                "35606": 7,
+                "35614": 20,
+                "35619": 10,
+                "35625": 5,
+                "35630": 3,
+                "35633": 9,
+                "35638": 4,
+                "35641": 3,
+                "35644": 7,
+                "35647": 3,
+                "35683": 13,
+                "35708": 1,
+                "35745": 7,
+                "35753": 1,
+                "35756": 4,
+                "36037": 4,
+                "36251": 3,
+                "36275": 1,
+                "36304": 1,
+                "37073": 1,
+                "37075": 3,
+                "38122": 1,
+                "38126": 2,
+                "38518": 3,
+                "38640": 6,
+                "38820": 1,
+                "39120": 3,
+                "40210": 2,
+                "41238": 1,
+                "42719": 1,
+                "42781": 2,
+                "44137": 1,
+                "44143": 1,
+                "47441": 1,
+                "48149": 3,
+                "48268": 1,
+                "49377": 1,
+                "49477": 1,
+                "50667": 1,
+                "50677": 1,
+                "51429": 1,
+                "51465": 1,
+                "52223": 1,
+                "52349": 1,
+                "52428": 1,
+                "53117": 2,
+                "55116": 3,
+                "55543": 3,
+                "57072": 2,
+                "60310": 3,
+                "60313": 3,
+                "60322": 7,
+                "61118": 7,
+                "61169": 12,
+                "61184": 2,
+                "61197": 2,
+                "61200": 12,
+                "61206": 4,
+                "61231": 32,
+                "61239": 4,
+                "61250": 2,
+                "61348": 2,
+                "61350": 4,
+                "61440": 2,
+                "61462": 2,
+                "63065": 2,
+                "63179": 3,
+                "63263": 6,
+                "63303": 3,
+                "63450": 5,
+                "63452": 2,
+                "63457": 2,
+                "63486": 2,
+                "63571": 4,
+                "63667": 3,
+                "63695": 2,
+                "63739": 3,
+                "64283": 6,
+                "64625": 4,
+                "65203": 2,
+                "65520": 2,
+                "65760": 3,
+                "67065": 3,
+                "68163": 2,
+                "68199": 3,
+                "69126": 2,
+                "70839": 4,
+                "71254": 2,
+                "71638": 2,
+                "74074": 3,
+                "76199": 3,
+                "76726": 4,
+                "79111": 2,
+                "79539": 5,
+                "79540": 3,
+                "79585": 2,
+                "80336": 3,
+                "82205": 6,
+                "84508": 2,
+                "91052": 3,
+                "91161": 2,
+                "91413": 3,
+                "93413": 2,
+                "99090": 3
+            },
+            "maxCount": 769
+        },
+        "arbeitgeber": {
+            "counts": {
+                "A.T.U Auto-Teile-Unger GmbH & Co. KG": 2,
+                "AGAPLESION EVANGELISCHES KRANKENHAUS MITTELHESSEN gGmbH": 5,
+                "ALDI SÜD Dienstleistungs- SE & Co. oHG": 2,
+                "ANG GmbH": 2,
+                "ARWA Personaldienstleistungen GmbH": 21,
+                "Adecco Personaldienstleistungen GmbH": 3,
+                "Alexander Binzel Schweisstechnik GmbH & Co. KG": 2,
+                "Alloheim Senioren-Residenzen SE": 17,
+                "Alten- und Pflegeheim Haus Ziegler GmbH": 3,
+                "Aramark Deutschland": 2,
+                "ArteCare Mitte GmbH Pflegezentrum Lich": 4,
+                "BDL Bahndienstleistungen Ludolph GmbH": 3,
+                "BONITA GmbH": 3,
+                "BS Menzel GmbH": 4,
+                "BUHL Personal GmbH - Niederlassung Frankfurt": 20,
+                "Burns & Fischer GbR Steven Burns und Thomas Fischer": 3,
+                "CNL GmbH": 2,
+                "CRS medical GmbH": 4,
+                "Caritasverband Gießen e.V.": 2,
+                "Creativ Personaldiensteistungen GmbH": 14,
+                "DAK-Gesundheit": 2,
+                "DHL AG Zentrale": 4,
+                "DOREA GmbH": 3,
+                "Deutsche Bahn AG": 2,
+                "Dirk Rossmann GmbH": 3,
+                "Dr. Dimos Moschos Fachzahnarztpraxis für Oralchirurgie": 2,
+                "Edgar Borrmann GmbH & Co. KG": 2,
+                "Elektrobau Gundlach GmbH": 2,
+                "FARA Gießen GmbH": 7,
+                "FARA Personal Bad Homburg GmbH": 2,
+                "FERCHAU GmbH Niederlassung Giessen": 21,
+                "FFD Fachkräfte für Deutschland e.V.": 9,
+                "FSM Frankenberger GmbH Pohlheim": 4,
+                "G + N Gefahrenmelde- und Nachrichtentechnik GmbH": 2,
+                "GAR Garten- und Agrarmarkt Reiskirchen GmbH": 2,
+                "HR TeamWork Personalmanagement Dill  GmbH": 12,
+                "HSP STEUER Pracht GmbH Stbges.": 2,
+                "Happy Personalservice GmbH": 2,
+                "HeRa Consulting GmbH": 4,
+                "Hensoldt Holding Germany GmbH": 2,
+                "IKEA Deutschland GmbH & Co. KG": 4,
+                "INJOY International Sports- an d Wellnessclubs": 9,
+                "Ikea Deutschland GmbH & Co KG": 3,
+                "Ingo Menzel SV-Versicherungen": 2,
+                "InterTime AG": 5,
+                "JB Arbeitsvermittlung": 2,
+                "JOBAG Personal GmbH": 27,
+                "Janitza electronics GmbH": 2,
+                "Johanniter-Unfall-Hilfe e.V. Landesverband Hessen/Rheinland-Pfalz/Saar": 2,
+                "Jurcevic Ivan ImPuls Fitnessstudio": 3,
+                "Justus-Liebig-Universität": 7,
+                "Karriere Künstler Pascal Künstler": 2,
+                "KiK Textilien und Non-Food GmbH": 4,
+                "Klemme Personalmanagement GmbH": 4,
+                "Knettenbrech + Gurdulic Service GmbH & Co. KG": 3,
+                "Königsberger Diakonie": 4,
+                "LINK GmbH": 3,
+                "Lahn-Dill-Kliniken GmbH": 36,
+                "Lebenshilfe Gießen e.V.": 7,
+                "Leder Meid GmbH Lederwaren-Einzelhandel": 3,
+                "MK Versuchsanlagen GmbH & Co. KG": 4,
+                "MUNDUS Senioren-Residenzen GmbH": 2,
+                "Magistrat der Stadt Gießen": 2,
+                "Menschwert! e.V. NL Wetzlar": 2,
+                "ONE Personal GmbH": 2,
+                "Persoplan Arbeitnehmerüberlassung GmbH": 2,
+                "Peter Zahntechnik GmbH": 2,
+                "Piening GmbH (Gießen)": 39,
+                "REWE": 2,
+                "ROSA Experts AG & Co KG": 3,
+                "Randstad Deutschland": 20,
+                "Robert Bosch GmbH": 3,
+                "Russek + Burkhard GmbH": 2,
+                "STUDENTpartout GmbH - Standort Frankfurt": 8,
+                "Schäferei Jürgen Benner": 2,
+                "Stadt Wetzlar": 5,
+                "Stadttheater Gießen GmbH Intendanz u Verwaltung": 5,
+                "Stadtverwaltung Lich": 2,
+                "Stern Tief- und Galabau GmbH": 2,
+                "TEDi GmbH & Co. KG": 4,
+                "THM Technische Hochschule Mittelhessen": 2,
+                "TMS Trademarketing Service GmbH": 4,
+                "TRUECARE GmbH NL Frankfurt am Main": 4,
+                "TRUECARE GmbH NL Päd. Frankfurt am Main": 3,
+                "Takko Fashion": 2,
+                "Takko Holding": 2,
+                "TempWorkers GmbH Niederlassung Gießen": 9,
+                "Tempton Personaldienstleistungen GmbH NL Bad Nauheim": 5,
+                "Tempton Personaldienstleistungen GmbH NL Frankfurt Nord": 2,
+                "Tempton Personaldienstleistungen GmbH NL Gießen": 13,
+                "Tie Solution GmbH": 3,
+                "Universitätsklinikum Gießen": 8,
+                "Universitätsklinikum Gießen und Marburg GmbH": 7,
+                "Walz Gebäudetechnik GmbH": 6,
+                "Workwise GmbH": 5,
+                "dennree GmbH": 9,
+                "h&p Rheinland-Pfalz/Hessen gGmbH": 3,
+                "persona service AG & Co. KG Niederlassung Marburg": 10,
+                "pitstop.de GmbH": 4,
+                "simplecon GmbH": 5
+            },
+            "maxCount": 769
+        },
+        "beruf": {
+            "counts": {
+                "Aerobic-Trainer/in": 2,
+                "Altenpflegehelfer/in": 9,
+                "Altenpfleger/in": 8,
+                "Anlagenmechaniker/in": 3,
+                "Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik": 6,
+                "Arbeitsvorbereiter/in": 2,
+                "Arzt/Ärztin": 8,
+                "Arztsekretär/in": 3,
+                "Assistenzarzt/-ärztin": 3,
+                "Ausbaufacharbeiter/in - Trockenbauarbeiten": 2,
+                "Auslieferungsfahrer/in (nicht Verkaufsfahrer/in)": 2,
+                "Automatenbefüller/in": 2,
+                "Automobilkaufmann/-frau": 3,
+                "Bankkaufmann/-frau": 6,
+                "Baugeräteführer/in": 2,
+                "Beikoch/-köchin": 2,
+                "Berufskraftfahrer/in": 4,
+                "Betreuungskraft / Alltagsbegleiter/in": 6,
+                "Betriebsschlosser/in": 2,
+                "Bilanzbuchhalter/in/Bachelor Professional in Bilanzbuchhaltung": 3,
+                "Biologe/Biologin": 3,
+                "Buchhalter/in": 2,
+                "Bürokaufmann/-frau": 2,
+                "Elektroniker/in - Automatisierungstechnik": 3,
+                "Elektroniker/in - Betriebstechnik": 22,
+                "Elektroniker/in - Energie- und Gebäudetechnik": 7,
+                "Elektroniker/in - Gebäude- und Infrastruktursysteme": 3,
+                "Elektroniker/in - Geräte und Systeme": 9,
+                "Empfangskraft": 3,
+                "Ergotherapeut/in": 3,
+                "Erzieher/in": 6,
+                "Facharzt/-ärztin - Kinder- und Jugendpsychiatrie und -psychotherapie": 4,
+                "Facharzt/-ärztin - Orthopädie und Unfallchirurgie": 3,
+                "Fachinformatiker/in - Systemintegration": 3,
+                "Fachkraft - Lagerlogistik": 13,
+                "Fachkraft - Lagerwirtschaft": 3,
+                "Fachkrankenpfleger/in - Onkologie": 5,
+                "Fachlagerist/in": 11,
+                "Fachmann/-frau - Restaurants und Veranstaltungsgastronomie": 3,
+                "Finanzbuchhalter/in": 4,
+                "Fitnesstrainer/in": 4,
+                "Gabelstaplerfahrer/in": 31,
+                "Gebäudereiniger/in": 9,
+                "Geprüfte Schutz- und Sicherheitskraft (IHK)": 3,
+                "Gesundheits- und Krankenpflegehelfer/in": 5,
+                "Gesundheits- und Krankenpfleger/in": 13,
+                "Hausmeister/in": 7,
+                "Hauswirtschafter/in": 3,
+                "Heilerziehungspfleger/in": 3,
+                "Helfer/in - Altenpflege/Persönliche Assistenz": 3,
+                "Helfer/in - Elektro": 6,
+                "Helfer/in - Gastgewerbe": 4,
+                "Helfer/in - Hotel": 4,
+                "Helfer/in - Kurier-, Zustell- und Postdienstleistungen": 4,
+                "Helfer/in - Küche": 16,
+                "Helfer/in - Lagerwirtschaft, Transport": 12,
+                "Helfer/in - Landwirtschaft": 3,
+                "Helfer/in - Reinigung": 13,
+                "Helfer/in - Verkauf": 9,
+                "Industrieelektriker/in - Betriebstechnik": 4,
+                "Industrieelektriker/in - Geräte und Systeme": 5,
+                "Industriekaufmann/-frau": 9,
+                "Industriemechaniker/in": 13,
+                "Ingenieur/in - Elektrotechnik": 4,
+                "Kaufmann/-frau - Büromanagement": 16,
+                "Kaufmann/-frau - Einzelhandel": 8,
+                "Kaufmännische Fachkraft": 6,
+                "Koch/Köchin": 7,
+                "Kommissionierer/in": 9,
+                "Konstruktionsmechaniker/in": 3,
+                "Kraftfahrzeugtechnikermeister/in/Bachelor Professional im Kraftfahrzeugtechniker-Handwerk": 5,
+                "Lager- und Transportarbeiter/in": 25,
+                "Lohn- und Gehaltsbuchhalter/in": 3,
+                "Maschinen- und Anlagenführer/in (ohne Angabe des Schwerpunkts)": 7,
+                "Maschinen- und Anlagenführer/in - Metall-, Kunststofftechnik": 3,
+                "Mechatroniker/in": 17,
+                "Medizinische/r Fachangestellte/r": 10,
+                "Metallbauer/in - Konstruktionstechnik": 6,
+                "Montierer/in": 4,
+                "Personalberater/in": 4,
+                "Personaldienstleistungskaufmann/-frau": 3,
+                "Personaldisponent/in": 6,
+                "Personalsachbearbeiter/in": 4,
+                "Pflegefachmann/-frau (Altenpflege)": 11,
+                "Pflegefachmann/-frau (Ausbildung)": 7,
+                "Pflegefachmann/-frau (Gesundheits- und Krankenpflege)": 8,
+                "Pädagoge/Pädagogin": 6,
+                "Qualitätskontrolleur/in": 3,
+                "Restaurantfachmann/-frau": 9,
+                "Sachbearbeiter/in - Logistik": 4,
+                "Schweißer/in": 9,
+                "Servicekraft - Gastronomie und Gastgewerbe": 4,
+                "Sicherungsposten": 3,
+                "Softwareentwickler/in": 5,
+                "Steuerfachangestellte/r": 6,
+                "Umwelttechnologe/-technologin - Abwasserbewirtschaftung": 3,
+                "Verkaufsberater/in": 4,
+                "Verkäufer/in": 34,
+                "Zahnmedizinische/r Fachangestellte/r": 12,
+                "Zerspanungsmechaniker/in": 10
+            },
+            "maxCount": 769
+        },
+        "homeoffice": {
+            "counts": {
+                "prozentual": 3,
+                "nv_false": 3,
+                "nv_true": 16
+            },
+            "maxCount": 769
+        },
+        "ausbildungsverguetung": {
+            "counts": {
+                "monat": 15
+            },
+            "maxCount": 769
+        },
+        "angebotsart": {
+            "counts": {
+                "1": 662,
+                "2": 3,
+                "34": 16,
+                "4": 88
+            },
+            "maxCount": 769
+        },
+        "branche": {
+            "counts": {
+                "1": 23,
+                "10": 26,
+                "11": 6,
+                "12": 5,
+                "13": 73,
+                "15": 15,
+                "17": 2,
+                "18": 12,
+                "2": 4,
+                "21": 11,
+                "22": 6,
+                "23": 9,
+                "24": 6,
+                "27": 22,
+                "28": 253,
+                "29": 6,
+                "3": 10,
+                "4": 11,
+                "5": 8,
+                "6": 12,
+                "7": 65,
+                "8": 7,
+                "9": 27
+            },
+            "maxCount": 769
+        },
+        "quereinstieg": {
+            "counts": {
+                "false": 712,
+                "true": 57
+            },
+            "maxCount": 769
+        },
+        "arbeitszeit": {
+            "counts": {
+                "mj": 27,
+                "snw": 88,
+                "tz": 195,
+                "vz": 597
+            },
+            "maxCount": 769
+        },
+        "eintrittsdatum": {
+            "counts": {
+                "10_01_01-now": 601,
+                "26_11_01-26_12_01": 463,
+                "26_12_01-27_01_01": 36,
+                "27_01_01-27_02_01": 25,
+                "27_02_01-27_03_01": 8,
+                "27_03_01-27_04_01": 4,
+                "27_04_01-27_05_01": 5,
+                "27_08_01-27_09_01": 57,
+                "27_09_01-27_10_01": 6
+            },
+            "maxCount": 769
+        },
+        "zeitarbeit": {
+            "counts": {
+                "false": 499,
+                "true": 270
+            },
+            "maxCount": 769
+        }
+    }
+}
